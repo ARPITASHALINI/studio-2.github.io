@@ -13,7 +13,7 @@
      height: 600px;
    }
 	body {
-  background-color: #E6E6FA;
+  background-color: #FADF98;
 }
   </style>
   <!-- Adding styling info for page layout by reading in a CSS file -->
