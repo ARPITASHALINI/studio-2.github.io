@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Studio Week 2</title>
+  <title>Studio Week 2: Submission through a github page. </title>
   <!-- Adding in the Leaflet CSS file -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
   <!-- Adding Leaflet JavaScript file -->
