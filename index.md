@@ -18,14 +18,14 @@
 </head>
 
 <body>
-  <h1>Studio Week 2 <br> Raster tiles with Leaflet </h1>
+  <h1>Studio Week 2 <br> Raster tiles with Leaflet submitted by Arpita Shalini.  </h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
   <ul>
-    <li><a class="active" href="index.html" target="_self">Output 1</a></li>
-    <li><a href="Mapbox-gl-js-cwm.html" target="_self">Output 2</a></li>
-    <li><a href="Mapbox-gl-js-ct.html" target="_self">Output 3</a></li>
-    <li><a href="Mapbox-gl-js-bm.html" target="_self">Output 4</a></li>
+    <li><a class="active" href="index.html" target="_self" style="color: #09166c">Output 1</a></li>
+    <li><a href="Mapbox-gl-js-cwm.html" target="_self" style="color: #8ebf42">Output 2</a></li>
+    <li><a href="Mapbox-gl-js-ct.html" target="_self" style="color: #09166c">Output 3</a></li>
+    <li><a href="Mapbox-gl-js-bm.html" target="_self" style="color: #8ebf42">Output 4</a></li>
   </ul>
   <br>
 
