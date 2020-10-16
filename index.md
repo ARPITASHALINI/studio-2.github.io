@@ -22,10 +22,10 @@
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
   <ul>
-    <li><a class="active" href="index.html" target="_self" style="color: #09166c" style="list-style-type:square">Output 1</a></li>
-    <li><a href="Mapbox-gl-js-cwm.html" target="_self" style="color: #8ebf42" style="list-style-type:square">Output 2</a></li>
-    <li><a href="Mapbox-gl-js-ct.html" target="_self" style="color: #56596b" style="list-style-type:square">Output 3</a></li>
-    <li><a href="Mapbox-gl-js-bm.html" target="_self" style="color: #8ebf42" style="list-style-type:square">Output 4</a></li>
+    <li><a class="active" href="index.html" target="_self" style="color: #09166c">Output 1</a></li>
+    <li><a href="Mapbox-gl-js-cwm.html" target="_self" style="color: #8ebf42">Output 2</a></li>
+    <li><a href="Mapbox-gl-js-ct.html" target="_self" style="color: #56596b">Output 3</a></li>
+    <li><a href="Mapbox-gl-js-bm.html" target="_self" style="color: #8ebf42">Output 4</a></li>
   </ul>
   <br>
 
