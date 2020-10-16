@@ -23,7 +23,7 @@
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
   <ul>
-  	<li><a class="active" href="index.html" target="_self">Output 1</a></li>
+    <li><a class="active" href="index.html" target="_self">Output 1</a></li>
     <li><a href="Mapbox-gl-js-cwm.html" target="_self">Output 2</a></li>
     <li><a href="Mapbox-gl-js-ct.html" target="_self">Output 3</a></li>
     <li><a href="Mapbox-gl-js-bm.html" target="_self">Output 4</a></li>
@@ -45,7 +45,7 @@
 
     /* Try changing out the tile source for something else. Hint: you can find 
      * lots of tile sources here: https://leaflet-extras.github.io/leaflet-providers/preview/ 
-     */
+     */ 
      L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
 	maxZoom: 19,
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
