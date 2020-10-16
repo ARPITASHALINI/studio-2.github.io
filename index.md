@@ -11,6 +11,7 @@
     /* Add a CSS rule that selects an element with the ID "mapId" and gives it a height of 600 pixels */
     #mapId {
      height: 600px;
+     border-style: inset;
    }
 	body {
   background-color: #FADF98;
