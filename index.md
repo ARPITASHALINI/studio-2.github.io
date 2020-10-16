@@ -17,7 +17,7 @@
 }
  ul {
   background: #F1C40F;
-  padding: 50px;
+  padding: 10px;
 }
   </style>
   <!-- Adding styling info for page layout by reading in a CSS file -->
