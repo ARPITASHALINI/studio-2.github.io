@@ -21,12 +21,12 @@
   <h1>Studio Week 2 <br> Raster tiles with Leaflet submitted by Arpita Shalini.  </h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
-  <ol>
+  <ul>
     <li><a class="active" href="index.html" target="_self" style="color: #09166c" style="list-style-type:square">Output 1</a></li>
     <li><a href="Mapbox-gl-js-cwm.html" target="_self" style="color: #8ebf42" style="list-style-type:square">Output 2</a></li>
     <li><a href="Mapbox-gl-js-ct.html" target="_self" style="color: #09166c" style="list-style-type:square">Output 3</a></li>
     <li><a href="Mapbox-gl-js-bm.html" target="_self" style="color: #8ebf42" style="list-style-type:square">Output 4</a></li>
-  </ol>
+  </ul>
   <br>
 
   <!-- Add a div with id="mapId" to give the map somewhere to go -->
