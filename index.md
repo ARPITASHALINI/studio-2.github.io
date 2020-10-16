@@ -12,14 +12,15 @@
     #mapId {
      height: 600px;
    }
+	body {
+  background-color: #E6E6FA;
+}
   </style>
   <!-- Adding styling info for page layout by reading in a CSS file -->
   <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-	{color:green;
-	}
   <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Studio Week 2 <br> Raster tiles with Leaflet submitted by Arpita Shalini.</h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
