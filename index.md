@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<body  style="background-color:#b3b5b869 ;>
+<body style="background-color:#b3b5b869" ;>
   <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Studio Week 2 <br> Raster tiles with Leaflet submitted by Arpita Shalini.</h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
