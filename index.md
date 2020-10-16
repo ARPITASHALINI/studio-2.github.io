@@ -15,6 +15,10 @@
 	body {
   background-color: #FADF98;
 }
+ ul {
+  background: #3399ff;
+  padding: 20px;
+}
   </style>
   <!-- Adding styling info for page layout by reading in a CSS file -->
   <link rel="stylesheet" href="styles.css">
