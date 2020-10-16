@@ -18,7 +18,17 @@
        text-align: center;    
        bottom: 0px; 
        width: 100%;
+    }
+       body {
+        color: green;
+        background-color: #FADF98
 
+    }
+        footer{
+            text-align: center;
+            padding: 3px;
+            background-color: DarkSalmon;
+            color: white;      
     }
     </style>
     <!-- Adding styling info for page layout by reading in a CSS file -->
@@ -27,7 +37,7 @@
 </head>
 
 <body>
-  <h1>Studio Week 2 <br> Custom Style with Mapbox GL JS </h1>
+  <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Studio Week 2 <br> Custom Style with Mapbox GL JS </h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
   <ul>
@@ -40,8 +50,8 @@
 
     <!-- Container for the map -->
     <div id="mapId"></div>
-    <div class="footer">This map is made by taking inspiration from the 'Action Against Hunger' organisation. This Organisation works against hunger and malnutrition. You can donate to their organisation from <a href="https://www.actionagainsthunger.org/" style="color: #8ebf42"> here</a>. This organisation has helped a lot of people around the world to outgrow malnutrition. 
-        The color code for the map has been inspired from the orhganisation's website which is based on three color code: GREEN, BLUE and GREY.   </div>
+    <div class="footer" style="font-family:'Times New Roman'">"This map is made by taking inspiration from the 'Action Against Hunger' organisation. This Organisation works against hunger and malnutrition. You can learn and donate to their organisation from <a href="https://www.actionagainsthunger.org/"> here.</a> They have an open-data policy which can be accessed from <a href="https://www.actionagainsthunger.org.uk/open-data-policy"> here. </a>This organisation has helped a lot of people around the world to outgrow malnutrition. 
+        The color code for the map has been inspired from the orhganisation's website which is based on three color code: GREEN, BLUE and GREY.   </div> </div>
     <script>
     // Set your Mapbox access token
     mapboxgl.accessToken = "pk.eyJ1IjoiYXJwaXRhMjUwOSIsImEiOiJja2dibnVxenQwMHUxMnptZjJjZ2dqNnRpIn0.k-hGdFzGPxjJ1CbQP10D3w";
